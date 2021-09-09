@@ -27,6 +27,4 @@ Registration is optional, you can mine directly to your coin wallet address. How
 - one address for all coins listed on pool;
 - disable payments feature.
 
-Check this video to know how to register on WoolyPooly:
-
-<iframe width="560" height="315" src="https://www.youtube.com/embed/BtyJbwFtaeI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+Check this video https://www.youtube.com/embed/BtyJbwFtaeI to know how to register on WoolyPooly.
